@@ -2,3 +2,11 @@ body {
     background-color: darkblue;
     color: white;
 }
+
+.banner {
+    height: 100px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
